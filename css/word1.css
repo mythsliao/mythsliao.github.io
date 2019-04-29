@@ -29,4 +29,6 @@ h1 .text-primary {
 	a {
     color: #FFD700!important;
 	}
-<img src="img/001.jpg" title="" width="200" height="150"">
+
+<img src="img/001.jpg" style="filter:FlipH()"> 
+
